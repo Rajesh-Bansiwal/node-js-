@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex{
+display: block;
+}
+body{
+    background-color: rgb(233, 214, 217);
+}
+main{
+    /* border: 2px solid red; */
+    width: 30vw;
+    height: 40vh;
+    /* position: relative; */
+    /* position: absolute; */
+    /* top: 50%; */
+    /* left: 50%; */
+    /* transform: translate(-50%,-50%); */
+    margin: 35vh auto;
+    /* padding: auto 10px; */
+background-color: #ffff;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+}
+.form{
+    /* padding: 10px 10px; */
+    /* margin: 0px auto; */
+    padding: 28px;
+   
+}
+input{
+    width: 25vw;
+    margin-top: 10px;
+    height: 4vh;
+    border: 1px solid rgb(236, 231, 231);
+}
+button{
+    margin-top: 10px;
+    width: 10vw;
+    height: 5vh;
+    background-color: rgb(9, 9, 173);
+    border: 1px solid rgb(190, 186, 186);
+    color: white;
+    border-radius: 5px;
+    transform: translate(50%,50%);
+}
+
